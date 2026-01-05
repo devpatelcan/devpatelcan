@@ -14,4 +14,4 @@ I'm a 2nd-year Mechatronics student dedicated to engineering products and system
 **Contact Me**
 
 * 👔 [LinkedIn](https://www.linkedin.com/in/devpatelcan/)
-* ✉️ [your-email@gmail.com](mailto:devpatelcan10@gmail.com)
+* ✉️ [devpatelcan10@gmail.com](mailto:devpatelcan10@gmail.com)
