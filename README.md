@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dev Patel 👋
 
-<!--
-**devpatelcan/devpatelcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**I am a Mechatronics Engineering at the Toronto Metropolitan Univesristy.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 2nd-year Mechatronics student dedicated to engineering products and systems that integrate hardware and software. Currently, I am a mechanical team member on Toronto MetRobotics, a design team competing to develop the best Mars-based rover for the University Rover Challenge. My work spans from high performance mechanical design to automated coneyor systems and home IoT devices.
+
+### 🚀 About Me
+* 🔭 **Currently working on:** Soil collection and distribution systems for the 2025-2026 URC competition (**Toronto MetRobotics**).
+* 🎯 **Career Aspirations:** Breaking into power generation and space robotics to develop next-gen outer space technology.
+* 🛠️ **Hobbies:** Creating functional products through 3D printing and rapid prototyping.
+
+**Contact Me**
+
+* 👔 [LinkedIn](https://www.linkedin.com/in/devpatelcan/)
+* ✉️ [your-email@gmail.com](mailto:devpatelcan10@gmail.com)
