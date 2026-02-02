@@ -4,7 +4,7 @@
 
 **I study Mechatronics Engineering at the Toronto Metropolitan University.**
 
-I'm a 2nd-year Mechatronics student dedicated to engineering products and systems that integrate hardware and software. Currently, I am a mechanical team member on Toronto MetRobotics, a design team competing to develop the best Mars-based rover for the University Rover Challenge. My work spans from high performance mechanical design to automated coneyor systems and home IoT devices.
+I'm a 2nd-year Mechatronics student dedicated to engineering products and systems that integrate hardware and software. Currently, I work with the Toronto MetRobotics, a design team competing to develop the best Mars-based rover for the University Rover Challenge. My work spans from high performance mechanical design to automated coneyor systems and home IoT devices.
 
 ### 🚀 About Me
 * 🔭 **Currently working on:** Soil collection and distribution systems for the 2025-2026 URC competition (**Toronto MetRobotics**).
